@@ -1,0 +1,6 @@
+app_name = "cna-shop"
+region = "Australia East"
+resource_group_name = "cna-shop"
+failover_location = "Australia East"
+cosmosdb_account_name_prefix = "cna-shop-cosmosdb-account"
+storage_account_name_prefix = "shopwebappstorage"
